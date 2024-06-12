@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicAppModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Artist">
+    <Key>
+      <PropertyRef Name="ArtistID" />
+    </Key>
+    <Property Name="ArtistID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ArtistName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Followers" Type="Int32" />
+    <NavigationProperty Name="Musics" Relationship="Self.FK__Musics_Ne__Artis__6D0D32F4" FromRole="Artists" ToRole="Musics" />
+  </EntityType>
+  <EntityType Name="Collection">
+    <Key>
+      <PropertyRef Name="CollectionID" />
+    </Key>
+    <Property Name="CollectionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CollectionName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ImageURL" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="DisplayOrder" Type="Int16" />
+    <NavigationProperty Name="Musics" Relationship="Self.CollectionMusic" FromRole="Collections" ToRole="Musics" />
+  </EntityType>
+  <EntityType Name="Music">
+    <Key>
+      <PropertyRef Name="MusicID" />
+    </Key>
+    <Property Name="MusicID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusicName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ArtistID" Type="Int32" />
+    <Property Name="ReleaseDate" Type="DateTime" Precision="0" />
+    <Property Name="TotalViews" Type="Int32" />
+    <Property Name="MusicURL" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ImageURL" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Artist" Relationship="Self.FK__Musics_Ne__Artis__6D0D32F4" FromRole="Musics" ToRole="Artists" />
+    <NavigationProperty Name="Collections" Relationship="Self.CollectionMusic" FromRole="Musics" ToRole="Collections" />
+    <NavigationProperty Name="Playlists" Relationship="Self.PlaylistMusic" FromRole="Musics" ToRole="Playlists" />
+  </EntityType>
+  <EntityType Name="Playlist">
+    <Key>
+      <PropertyRef Name="PlaylistID" />
+    </Key>
+    <Property Name="PlaylistID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PlaylistName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UserID" Type="Int32" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Playlists__UserI__6FE99F9F" FromRole="Playlists" ToRole="Users" />
+    <NavigationProperty Name="Musics" Relationship="Self.PlaylistMusic" FromRole="Playlists" ToRole="Musics" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UserLoginName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UserPassword" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Playlists" Relationship="Self.FK__Playlists__UserI__6FE99F9F" FromRole="Users" ToRole="Playlists" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__Musics_Ne__Artis__6D0D32F4">
+    <End Role="Artists" Type="Self.Artist" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Musics" Type="Self.Music" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artists">
+        <PropertyRef Name="ArtistID" />
+      </Principal>
+      <Dependent Role="Musics">
+        <PropertyRef Name="ArtistID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Playlists__UserI__6FE99F9F">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Playlists" Type="Self.Playlist" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Playlists">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CollectionMusic">
+    <End Role="Collections" Type="Self.Collection" Multiplicity="*" />
+    <End Role="Musics" Type="Self.Music" Multiplicity="*" />
+  </Association>
+  <Association Name="PlaylistMusic">
+    <End Role="Musics" Type="Self.Music" Multiplicity="*" />
+    <End Role="Playlists" Type="Self.Playlist" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="MusicAppEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Artists" EntityType="Self.Artist" />
+    <EntitySet Name="Collections" EntityType="Self.Collection" />
+    <EntitySet Name="Musics" EntityType="Self.Music" />
+    <EntitySet Name="Playlists" EntityType="Self.Playlist" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__Musics_Ne__Artis__6D0D32F4" Association="Self.FK__Musics_Ne__Artis__6D0D32F4">
+      <End Role="Artists" EntitySet="Artists" />
+      <End Role="Musics" EntitySet="Musics" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Playlists__UserI__6FE99F9F" Association="Self.FK__Playlists__UserI__6FE99F9F">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Playlists" EntitySet="Playlists" />
+    </AssociationSet>
+    <AssociationSet Name="CollectionMusic" Association="Self.CollectionMusic">
+      <End Role="Collections" EntitySet="Collections" />
+      <End Role="Musics" EntitySet="Musics" />
+    </AssociationSet>
+    <AssociationSet Name="PlaylistMusic" Association="Self.PlaylistMusic">
+      <End Role="Musics" EntitySet="Musics" />
+      <End Role="Playlists" EntitySet="Playlists" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

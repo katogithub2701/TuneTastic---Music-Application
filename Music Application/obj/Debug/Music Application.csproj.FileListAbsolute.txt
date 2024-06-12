@@ -1,0 +1,442 @@
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.Form1.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucSong.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.CopyComplete
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.exe.config
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.exe
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Music Application.pdb
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.Form1.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music_Application.ucSong.resources
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.exe
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\obj\Debug\Music Application.pdb
+D:\Downloads\PBL3-main\PBL3-main\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Form1.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CopyComplete
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Form1.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CopyComplete
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\Ms.Giang\OneDrive\tai lieu\PBL3\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+D:\Downloads\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Form1.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.DelMusicForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+D:\Downloads\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.DelMusicForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CopyComplete
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.DisplayEditForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.DelMusicForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.DisplayEditForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditCollectionForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditCollection.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditMusic.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+D:\Downloads\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditCollectionForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditCollection.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditMusic.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CopyComplete
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+C:\Users\Admin\OneDrive\tai lieu\PBL3\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditCollectionForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditCollection.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditMusic.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+D:\Downloads\UngDungNhac1ngaytruockhithi\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.ForgetPasswordForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe.config
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.exe
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Music Application.pdb
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.xml
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.AssemblyReference.cache
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.ResolveComReference.cache
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditCollectionForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditCollection.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditMusic.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addPlaylistForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.addToPlaylistForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.GUI.ForgetPasswordForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.HomeForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.PlaylistForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signUpForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.Properties.Resources.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.QueueForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.signInForm.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylistBox.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusicInQueue.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlaylist.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucPlayListSong.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.GenerateResource.cache
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe.licenses
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.csproj.CoreCompileInputs.cache
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Ap.EA05BBDA.Up2Date
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.exe
+D:\Downloads\UngDungNhac12-06\UngDungNhac\MusicApp\Music Application\Music Application\Music Application\obj\Debug\Music Application.pdb
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddCollectionForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.AddMusicForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.AdminForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditCollectionForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.EditMusicForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditCollection.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.Admin.NextFormEditMusic.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.GUI.CollectionForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.GUI.ForgetPasswordForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.MainForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.SearchForm.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.ucMusic.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.UC.ucPlayer.resources
+C:\Users\admin\Documents\Pbl3\Music Application\Music Application\obj\Debug\Music_Application.ucCollection.resources
