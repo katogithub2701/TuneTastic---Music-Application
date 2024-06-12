@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d485c0a682344f589e4fcebe36fa7c66" Name="Diagram1">
+        <EntityTypeShape EntityType="MusicAppModel.Artist" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicAppModel.Collection" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicAppModel.Music" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicAppModel.Playlist" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicAppModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicAppModel.User" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <AssociationConnector Association="MusicAppModel.FK__Musics_Ne__Artis__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="MusicAppModel.FK__Playlists__UserI__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="MusicAppModel.CollectionMusic" ManuallyRouted="false" />
+        <AssociationConnector Association="MusicAppModel.PlaylistMusic" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

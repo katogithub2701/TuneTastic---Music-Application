@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C1B9C64C-48FA-4A1E-8A85-2B5CA830F47E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Music_Application</RootNamespace>
+    <AssemblyName>Music Application</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\..\..\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShapes">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuShapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>D:\Downloads\BunifuCrack-main\BunifuCrack-main\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AddCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddCollectionForm.Designer.cs">
+      <DependentUpon>AddCollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddMusicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddMusicForm.Designer.cs">
+      <DependentUpon>AddMusicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditCollectionForm.Designer.cs">
+      <DependentUpon>EditCollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditMusicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditMusicForm.Designer.cs">
+      <DependentUpon>EditMusicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\NextFormEditCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\NextFormEditCollection.Designer.cs">
+      <DependentUpon>NextFormEditCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\NextFormEditMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\NextFormEditMusic.Designer.cs">
+      <DependentUpon>NextFormEditMusic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Artist.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\BLL_Aritsts.cs" />
+    <Compile Include="BLL\BLL_Musics.cs" />
+    <Compile Include="BLL\BLL_Collections.cs" />
+    <Compile Include="BLL\BLL_Playlists.cs" />
+    <Compile Include="BLL\BLL_Users.cs" />
+    <Compile Include="Collection.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DAL_Artists.cs" />
+    <Compile Include="DAL\DAL_Musics.cs" />
+    <Compile Include="DAL\DAL_Collections.cs" />
+    <Compile Include="DAL\DAL_Playlists.cs" />
+    <Compile Include="DAL\DAL_Users.cs" />
+    <Compile Include="DatabaseEntity.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseEntity.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseEntity.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseEntity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseEntity.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\CBBItem.cs" />
+    <Compile Include="GUI\addPlaylistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\addPlaylistForm.Designer.cs">
+      <DependentUpon>addPlaylistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\addToPlaylistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\addToPlaylistForm.Designer.cs">
+      <DependentUpon>addToPlaylistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CollectionForm.Designer.cs">
+      <DependentUpon>CollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ForgetPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ForgetPasswordForm.Designer.cs">
+      <DependentUpon>ForgetPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SearchForm.Designer.cs">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\signUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\signUpForm.Designer.cs">
+      <DependentUpon>signUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\BLL_Player.cs" />
+    <Compile Include="GUI\PlaylistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PlaylistForm.Designer.cs">
+      <DependentUpon>PlaylistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Music.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Playlist.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\QueueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QueueForm.Designer.cs">
+      <DependentUpon>QueueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\signInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\signInForm.Designer.cs">
+      <DependentUpon>signInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucCollection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucCollection.Designer.cs">
+      <DependentUpon>ucCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucMusicInQueue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucMusicInQueue.Designer.cs">
+      <DependentUpon>ucMusicInQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucPlaylist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucPlaylist.Designer.cs">
+      <DependentUpon>ucPlaylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucPlayListSong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucPlayListSong.Designer.cs">
+      <DependentUpon>ucPlayListSong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucMusic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucMusic.Designer.cs">
+      <DependentUpon>ucMusic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ucPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ucPlayer.Designer.cs">
+      <DependentUpon>ucPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>DatabaseEntity.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\AddCollectionForm.resx">
+      <DependentUpon>AddCollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddMusicForm.resx">
+      <DependentUpon>AddMusicForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditCollectionForm.resx">
+      <DependentUpon>EditCollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditMusicForm.resx">
+      <DependentUpon>EditMusicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\NextFormEditCollection.resx">
+      <DependentUpon>NextFormEditCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\NextFormEditMusic.resx">
+      <DependentUpon>NextFormEditMusic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\addPlaylistForm.resx">
+      <DependentUpon>addPlaylistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\addToPlaylistForm.resx">
+      <DependentUpon>addToPlaylistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CollectionForm.resx">
+      <DependentUpon>CollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ForgetPasswordForm.resx">
+      <DependentUpon>ForgetPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PlaylistForm.resx">
+      <DependentUpon>PlaylistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SearchForm.resx">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\signUpForm.resx">
+      <DependentUpon>signUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="GUI\QueueForm.resx">
+      <DependentUpon>QueueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\signInForm.resx">
+      <DependentUpon>signInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucCollection.resx">
+      <DependentUpon>ucCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucMusicInQueue.resx">
+      <DependentUpon>ucMusicInQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucPlaylist.resx">
+      <DependentUpon>ucPlaylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucPlayListSong.resx">
+      <DependentUpon>ucPlayListSong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucMusic.resx">
+      <DependentUpon>ucMusic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ucPlayer.resx">
+      <DependentUpon>ucPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="DatabaseEntity.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DatabaseEntity.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DatabaseEntity.edmx.diagram">
+      <DependentUpon>DatabaseEntity.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wadd-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wcross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wheart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wminus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wmute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wnext bt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wpause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wplay-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrepeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wsearch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wshuffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wsound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shuffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waves.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicwaves.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-150.png" />
+    <None Include="Resources\icons8-plus-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DatabaseEntity.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DatabaseEntity.edmx</DependentUpon>
+      <LastGenOutput>DatabaseEntity.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DatabaseEntity.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DatabaseEntity.edmx</DependentUpon>
+      <LastGenOutput>DatabaseEntity.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\wyellowplay.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
